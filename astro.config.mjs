@@ -16,6 +16,7 @@ export default defineConfig({
 				nav: [
 					{ label: 'Home', link: '/' },
 					{ label: 'Speakers', link: '#speakers' },
+					{ label: 'Code of Conduct', link: '/documentation/coc/' },
 				],
 			},
 		}),
